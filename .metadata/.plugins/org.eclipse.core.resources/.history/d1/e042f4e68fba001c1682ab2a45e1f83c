@@ -1,0 +1,1 @@
+insert into discipliha (nome, id) values ('Logica', 4);

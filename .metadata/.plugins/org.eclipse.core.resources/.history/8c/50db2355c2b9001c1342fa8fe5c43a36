@@ -1,0 +1,9 @@
+package br.com.empresa.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import br.com.empresa.entity.Disciplina;
+
+public interface AvaliacaoRepository extends JpaRepository<Disciplina, Integer> {
+
+}
